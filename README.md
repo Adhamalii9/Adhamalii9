@@ -33,9 +33,9 @@
   
   <text x="50" y="700" class="subheader">Connect with me:</text>
   <a href="https://github.com/Adhamali9" target="_blank">
-    <text x="50" y="730" class="link">GitHub</text>
-  </a> <br>
+    <text x="50" y="730" class="link">GitHub </text>
+  </a>
   <a href="https://www.linkedin.com/in/Adhamali9" target="_blank">
-    <text x="50" y="760" class="link">LinkedIn</text>
+    <text x="50" y="760" class="link"> LinkedIn</text>
   </a>
 </svg>
