@@ -18,7 +18,7 @@
   <text x="50" y="360" class="text">open source projects, especially those related to full stack .Net Applications.</text>
   
   <text x="50" y="390" class="subheader">🤔 I’m looking for help with</text>
-  <text x="50" y="420" class="text">finding an entry-level software engineering position.</text>
+  <text x="50" y="420" class="text">finding a software engineering position.</text>
   
   <text x="50" y="450" class="subheader">💬 Ask me about</text>
   <text x="50" y="480" class="text">Java, C#,  Python, Flutter, and MySQL.</text>
@@ -34,7 +34,7 @@
   <text x="50" y="700" class="subheader">Connect with me:</text>
   <a href="https://github.com/Adhamali9" target="_blank">
     <text x="50" y="730" class="link">GitHub</text>
-  </a>
+  </a> <br>
   <a href="https://www.linkedin.com/in/Adhamali9" target="_blank">
     <text x="50" y="760" class="link">LinkedIn</text>
   </a>
