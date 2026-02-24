@@ -5,7 +5,7 @@
   
   <text x="50" y="100" class="text">Welcome to my GitHub profile!</text>
   
-  <text x="50" y="140" class="text">I'm Adham Ali, a recent software engineering graduate with a passion for coding and problem-solving.</text>
+  <text x="50" y="140" class="text">I'm Adham Soliman, a recent software engineering graduate with a passion for coding and problem-solving.</text>
   <text x="50" y="170" class="text">I'm excited to share my projects and collaborate with other developers.</text>
   
   <text x="50" y="210" class="subheader">🔭 I’m currently working on</text>
